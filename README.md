@@ -1,3 +1,10 @@
+
+> **DEPRECATED:** This repo has been merged into the central monorepo at
+> [github.com/bakasa/hermes-vagrant](https://github.com/bakasa/hermes-vagrant).
+> Please use that repo for all new deployments. This repo is kept for reference only.
+
+---
+
 # Hermes Main Agent (OWL)
 # =======================
 
